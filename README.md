@@ -10,4 +10,4 @@ Then we calculate the standard deviation in the prediction data.
 2. If the amount of rainfall entered by the user is more than (mean + std deviation) or (prediction + std deviation) then we output 1 i.e: There are chances of flood to occur.
 3. Else we ouput 0 i.e: Flood is unlikely to occur.
 
-*Note: I'm not using the Flood Dates sheet provided as I feel that the occurence of flood depends lot more on environmental and geographical factors than the history of flood occurences. This model cannot be generalized to all the areas. Some regions might get flooded on receiving 150 cm of rainfall while for some receiving 200-250 cm of rainfall is normal and does not cause any devastation.
+*Note: I'm not using the Flood Dates sheet provided as I feel that the occurence of flood depends lot more on environmental and geographical factors than the history of flood occurences. This model cannot be generalized to all the areas. Some regions might get flooded on receiving 150 cm of rainfall while for some receiving 200-250 cm of rainfall is normal and does not cause any devastation.*
